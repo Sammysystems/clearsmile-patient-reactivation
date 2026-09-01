@@ -1,0 +1,30 @@
+node_modules
+dist
+.vercel
+.env.local
+.env.*.local
+*.log
+zeugbrowser
+.DS_Store
+snapshots
+.vercel
+
+# Internal build materials (client-ready repo excludes these)
+AGENTS.md
+canvas/
+docs/
+
+# InsForge & AI agent skills
+.insforge
+.agent
+.agents
+.augment
+.claude
+.cline
+.github/copilot*
+.kilocode
+.qoder
+.qwen
+.roo
+.trae
+.windsurf
