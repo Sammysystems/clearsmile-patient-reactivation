@@ -12,7 +12,8 @@ snapshots
 # Internal build materials (client-ready repo excludes these)
 AGENTS.md
 canvas/
-docs/
+docs/*
+!docs/dashboard.png
 
 # InsForge & AI agent skills
 .insforge
