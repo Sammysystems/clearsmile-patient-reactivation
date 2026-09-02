@@ -14,6 +14,7 @@ AGENTS.md
 canvas/
 docs/*
 !docs/dashboard.png
+clearsmile-launch/
 
 # InsForge & AI agent skills
 .insforge
