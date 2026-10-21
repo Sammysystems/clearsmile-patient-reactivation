@@ -67,7 +67,7 @@ Every patient is tracked against one status, from "overdue" to "booked" to "supp
 
 | Layer          | Technology                                             |
 | -------------- | ------------------------------------------------------ |
-| Frontend       | React 18 · TypeScript · Vite · Tailwind CSS            |
+| Frontend       | React 19 · TypeScript · Vite · Tailwind CSS            |
 | Backend        | Vercel serverless functions (Node.js TypeScript)       |
 | Database       | InsForge (Postgres BaaS, hosted PostgREST)             |
 | Email          | Resend (SMTP)                                          |

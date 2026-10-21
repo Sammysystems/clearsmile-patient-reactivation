@@ -25,7 +25,7 @@ For **local development** you only need #1 and #2. Skip Vercel until you're read
 ## Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/comfortokonfriday15-web/clearsmile-patient-reactivation.git
+git clone https://github.com/Sammysystems/clearsmile-patient-reactivation.git
 cd clearsmile-patient-reactivation
 ```
 
